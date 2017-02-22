@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Human!
+
+Jerot here,I like Node.js and Coffeescript.
+I like tacos too.
